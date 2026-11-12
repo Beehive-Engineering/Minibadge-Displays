@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -526,11 +526,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -707,7 +710,7 @@
         "uuid": "fbed12aa-3bd5-4966-ae1e-3d447769e703"
       }
     ],
-    "used_designators": "#PWR1-55,C1-21,D1-2,H1,J1-3,L1-2,NT1,R1-26,SW1-4,U1-7",
+    "used_designators": "#PWR1-115,C1-50,D1-2,H1,J1-3,L1-2,LED1-30,NT1,R1-26,SW1-4,U1-7",
     "variants": []
   },
   "sheets": [
